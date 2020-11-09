@@ -16,9 +16,9 @@ Because there is no such thing as reality. We choose our own reality by the mean
 
 因为根本没有“现实”这回事，全凭我们自己的视角。所以，一定要寻找美好的东西，珍惜自己所拥有的。把挑战当作是锻炼自己的机会。
 
-Remember: What you give your attention to will become your experience in life. Practice seeing the good in your life, and in others. Think the best, expect the best and always ask yourself how can this benefit my life.
-记住，你的关注点在哪里，你的成长就在哪里。多关注生命中美好的人和事，思考最好的，期待最好的，而且时刻问自己，这件事怎么能让我的生命受益？
+Remember: What you give your attention to will become your experience in life. Practice seeing the good in your life, and in others. Think the best, expect the best and always ask yourself how can this benefit my life. 记住，你的关注点在哪里，你的成长就在哪里。多关注生命中美好的人和事，思考最好的，期待最好的，而且时刻问自己，这件事怎么能让我的生命受益？
 
 Leave who you were. Love who you are and look forward to who you will become.
 
 接纳过去的自己，爱现在的自己，期待将来的自己。
+

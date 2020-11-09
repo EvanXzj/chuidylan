@@ -24,23 +24,23 @@ func main() {
 }
 ```
 
-```
+```text
 panic: runtime error: invalid memory address or nil pointer dereference
 [signal SIGSEGV: segmentation violation code=0x1 addr=0x0 pc=0x499043]
 
 goroutine 1 [running]:
 main.(*Point).Abs(...)
-	/tmp/sandbox466157223/prog.go:13
+    /tmp/sandbox466157223/prog.go:13
 main.main()
-	/tmp/sandbox466157223/prog.go:18 +0x23
+    /tmp/sandbox466157223/prog.go:18 +0x23
 ```
 
 ## Answer
 
 **The uninitialized pointer p in the main function is nil, and you can’t follow the nil pointer.**
 
-> If x is nil, an attempt to evaluate *x will cause a run-time panic.
-> 
+> If x is nil, an attempt to evaluate \*x will cause a run-time panic.
+>
 > — [The Go Programming Language Specification: Address operators](https://golang.org/ref/spec#Address_operators)
 
 You need to create a Point
@@ -60,3 +60,4 @@ func main() {
     fmt.Println(p.Abs())
 }
 ```
+
