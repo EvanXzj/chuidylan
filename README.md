@@ -1,3 +1,3 @@
 # Introduction
 
-A bunch of programming documents.
+A bunch of documents.
