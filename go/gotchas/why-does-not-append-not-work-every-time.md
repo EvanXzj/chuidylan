@@ -34,3 +34,4 @@ a2 := append([]byte(prefix), 'g')
 fmt.Println(string(a1)) // bad
 fmt.Println(string(a2)) // bag
 ```
+

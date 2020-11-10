@@ -1,4 +1,4 @@
-# Array won’t change
+# Array won't change
 
 **Why does the array value stick?**
 
@@ -20,8 +20,8 @@ func main() {
 
 ## Answer
 
-> - Arrays in Go are **values**
-> - When you pass an array to a function, **the array is copied.**
+> * Arrays in Go are **values**
+> * When you pass an array to a function, **the array is copied.**
 
 If you want to Foo to update the elements of a function, use a **Slice** instead.
 
@@ -46,3 +46,4 @@ func main() {
 A slice does not store any data, it just describes a section of an underlying array.
 
 When you change an element of a slice, you modify the corresponding element of its underlying array, and other slices that share the same underlying array will see the change.
+

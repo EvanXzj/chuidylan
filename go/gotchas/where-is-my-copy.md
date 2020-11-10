@@ -14,7 +14,7 @@ fmt.Println("dst:", dst)
 
 **Answer**
 
-The number of elements copied by the copy function is the **minimum of len(dst) and len(src)**. To make a full copy, you must allocate a big enough destination slice.
+The number of elements copied by the copy function is the **minimum of len\(dst\) and len\(src\)**. To make a full copy, you must allocate a big enough destination slice.
 
 ```go
 var src, dst []int
@@ -45,4 +45,5 @@ fmt.Println("dst:", dst)
 // dst: [1 2 3]
 ```
 
-Note that the capacity of the slice allocated by append may be a bit larger than len(src).
+Note that the capacity of the slice allocated by append may be a bit larger than len\(src\).
+
