@@ -18,9 +18,9 @@
 
 ## Weekly
 
-* [2020](weekly/weekly/README.md)
-  * [📦 Weekly 01](weekly/weekly/20201030.md)
-  * [📦 Weekly 02](weekly/weekly/20201106.md)
+* [2020](weekly/README.md)
+  * [📦 Weekly 01](weekly/2020/20201030.md)
+  * [📦 Weekly 02](weekly/2020/20201106.md)
 
 ## English
 
