@@ -2,25 +2,31 @@
 
 * [👋 Welcome](README.md)
 
-## Go
-
-* [Go Documents](go/godoc/README.md)
-  * [errors](go/godoc/errors.md)
-* [Go Gotchas](go/gotchas/README.md)
-  * [Assignment to entry in nil map](go/gotchas/assignment-to-entry-in-nil-map.md)
-  * [Invalid memory address or nil pointer dereference](go/gotchas/invalid-memory-address-or-nil-pointer-dereference.md)
-  * [Array won't change](go/gotchas/array-wont-change.md)
-  * [How does characters add up?](go/gotchas/how-does-characters-add-up.md)
-  * [What happened to ABBA?](go/gotchas/what-happened-to-abba.md)
-  * [Where is my copy?](go/gotchas/where-is-my-copy.md)
-  * [Why doesn’t append work every time?](go/gotchas/why-does-not-append-not-work-every-time.md)
-* [Go Blog](go/blog.md)
-
 ## Weekly
 
 * [2020](weekly/README.md)
   * [📦 Weekly 01](weekly/2020/20201030.md)
   * [📦 Weekly 02](weekly/2020/20201106.md)
+
+## Blog
+
+* [Node](blog/node/README.md)
+  * [Lerna 入门指南](blog/node/lerna-getting-start.md)
+  * [【转】Javascript Symbol 实用指南](blog/node/a-practical-guide-to-symbols-in-javaScript.md)
+* [Go](blog/go/README.md)
+  * [Go Documents](blog/go/godoc/README.md)
+    * [errors](blog/go/godoc/errors.md)
+  * [Go Gotchas](blog/go/gotchas/README.md)
+    * [Assignment to entry in nil map](blog/go/gotchas/assignment-to-entry-in-nil-map.md)
+    * [Invalid memory address or nil pointer dereference](blog/go/gotchas/invalid-memory-address-or-nil-pointer-dereference.md)
+    * [Array won't change](blog/go/gotchas/array-wont-change.md)
+    * [How does characters add up?](blog/go/gotchas/how-does-characters-add-up.md)
+    * [What happened to ABBA?](blog/go/gotchas/what-happened-to-abba.md)
+    * [Where is my copy?](blog/go/gotchas/where-is-my-copy.md)
+    * [Why doesn’t append work every time?](blog/go/gotchas/why-does-not-append-not-work-every-time.md)
+  * [Deploying go web app to heroku](blog/go/deploying-go-web-apps-to-heroku.md)
+* [Others](blog/others/README.md)
+  * [你不知道的Homebrew](blog/others/homebrew.md)
 
 ## English
 

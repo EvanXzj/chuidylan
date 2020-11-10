@@ -1,3 +1,3 @@
 # 👋 Welcome
 
-A bunch of documents.
+A bunch of Learning documents or notes.
