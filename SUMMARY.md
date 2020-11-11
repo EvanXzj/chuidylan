@@ -27,6 +27,14 @@
   * [Deploying go web app to heroku](blog/go/deploying-go-web-apps-to-heroku.md)
 * [Others](blog/others/README.md)
   * [你不知道的Homebrew](blog/others/homebrew.md)
+  * [撤销Commit](blog/others/reset-commit.md)
+  * [Vim 入门](blog/others/vim-getting-start.md)
+  * [XXX 软件设置 - 你懂的😁](blog/others/XXX-software-setup.md)
+
+
+## Docker
+
+* [Execute Docker Commands Without Sudo](docker/execute-docker-commands-without-sudo.md)
 
 ## English
 
