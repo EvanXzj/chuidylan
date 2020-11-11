@@ -4,13 +4,13 @@ XXX 软件搭建过程，你懂的！ 放飞自我~~~
 
 ## 1. 登录服务器
 
-```bash
+```sh
 ssh username@ip
 ```
 
 ## 2. 下载Brook文件
 
-```bash
+```sh
 # 根据最新版本替换url
 wget https://github.com/txthinking/brook/releases/download/v20190205/brook
 
@@ -23,7 +23,7 @@ mv brook /usr/local/bin/
 
 ## 3. 安装supervisor
 
-```bash
+```sh
 apt install supervisor
 ```
 
@@ -59,7 +59,7 @@ stderr_events_enabled=false                                 ; emit events on std
 
 ## 5. 重启supervisor
 
-```bash
+```sh
 service supervisor restart
 
 # 查看ssserver进程是否正常运行
