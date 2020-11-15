@@ -7,6 +7,7 @@
 * [2020](weekly/README.md)
   * [📦 Weekly 01](weekly/2020/20201030.md)
   * [📦 Weekly 02](weekly/2020/20201106.md)
+  * [📦 Weekly 03](weekly/2020/20201113.md)
 
 ## Blog
 
@@ -32,15 +33,11 @@
   * [以太坊智能合约极简入门](blog/blockchain/以太坊智能合约极简入门.md)
   * [搭建Bitcoin私链](blog/blockchain/搭建Bitcoin私链.md)
 * [Others](blog/others/README.md)
+  * [2019 年阅读书单](blog/others/2019-reading-books.md)  
   * [你不知道的Homebrew](blog/others/homebrew.md)
   * [撤销Commit](blog/others/reset-commit.md)
   * [Vim 入门](blog/others/vim-getting-start.md)
   * [XXX 软件设置 - 你懂的😁](blog/others/XXX-software-setup.md)
-
-
-## Docker
-
-* [Execute Docker Commands Without Sudo](docker/execute-docker-commands-without-sudo.md)
 
 ## English
 
@@ -60,3 +57,6 @@
   * [The biggest mistake is you think you have time](english/speech/the-biggest-mistake-is-you-think-you-have-time.md)
   * [The Easy Road Or The Hard Road](english/speech/the-easy-or-the-hard-road.md)
   * [Use the PAIN as motivation](english/speech/use-the-pain-as-motivation.md)
+* [Translation](english/translation/README.md)
+  * [【译】生命的意义](english/translation/the-meaning-of-life.md)
+  * [【译】当你老了](english/translation/when-you-are-old.md)
