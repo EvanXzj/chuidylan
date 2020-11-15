@@ -1,5 +1,6 @@
-# 【译】生命的意义  
-
+# 【译】生命的意义 
+ 
+> 英语学习文章，来源[百词斩爱阅读](https://ireading.baicizhan.com/react_reading/reading/article/161?buid=1352488830&from=singlemessage&ts=1555471953000)
 
 Edward Perman Cole died in May. it was a Sunday afternoon and there wasn't a cloud in the sky.
 
@@ -13,10 +14,10 @@ Me, I believe that you measure yourself by the people who measure themselves by 
 
 而我相信你可以用那些以你为标准的人来衡量自己。
 
-![The meaning of life](static/the-meaning-of-life.jpg)
+![The meaning of life](../../static/the-meaning-of-life.jpg)
 
 What I can tell you for sure is that by any measure, Edward Cole lived more in his last days on earth than most people manage to wring out of a lifetime. I know that when he died his eyes were closed and his heart was open . . .
 
 而我所能肯定的就是，无论你采用什么样的标准，爱德华 · 科尔在这世上活着的最后的日子比大多数人穷其一生的日子还要充实。我知道当他去世时，他的眼睛是闭上了，而他的心灵却是敞开的。
 
-> 英语学习文章，来源[百词斩爱阅读](https://ireading.baicizhan.com/react_reading/reading/article/161?buid=1352488830&from=singlemessage&ts=1555471953000)
+

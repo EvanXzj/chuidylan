@@ -1,5 +1,7 @@
 # 【转】When You Are Old
 
+> 英语学习文章，来源[百词斩爱阅读](https://ireading.baicizhan.com/react_reading/reading/article/155?buid=1352488830&ts=1557113740000)
+
 《当你老了》是威廉·巴特勒·叶芝献给女友毛特·冈妮的真挚爱情诗篇。叶芝是20世纪现代主义诗坛上最著名的诗人，他对毛特·冈妮一见钟情，虽多次求婚被拒但仍对她爱慕终身。
 
 ## 原文
@@ -93,5 +95,3 @@ And hid his face amid a crowd of stars.
 
 爱已飞翔，遁入星光
 ```
-
-> 英语学习文章，来源[百词斩爱阅读](https://ireading.baicizhan.com/react_reading/reading/article/155?buid=1352488830&ts=1557113740000)
