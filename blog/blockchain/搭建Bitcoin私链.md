@@ -2,11 +2,8 @@
 
 ## 1. 安装bitcoin core
 
-```bash
-# TODO
-http://ju.outofmemory.cn/entry/356416
+[参考官方文档](https://github.com/bitcoin/bitcoin/blob/master/doc/build-osx.md)
 
-```
 
 ## 2. 配置文件
 

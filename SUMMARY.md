@@ -25,6 +25,8 @@
     * [Where is my copy?](blog/go/gotchas/where-is-my-copy.md)
     * [Why doesn’t append work every time?](blog/go/gotchas/why-does-not-append-not-work-every-time.md)
   * [Deploying go web app to heroku](blog/go/deploying-go-web-apps-to-heroku.md)
+* [Docker](blog/docker/README.md)
+  * [Execute Docker Commands Without Sudo](blog/docker/execute-docker-commands-without-sudo.md)
 * [Blockchain](blog/blockchain/README.md)
   * [Geth搭建以太坊私链](blog/blockchain/Geth搭建以太坊私链.md)
   * [以太坊智能合约极简入门](blog/blockchain/以太坊智能合约极简入门.md)
