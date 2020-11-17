@@ -14,6 +14,7 @@
 * [Node](blog/node/README.md)
   * [Lerna 入门指南](blog/node/lerna-getting-start.md)
   * [【转】Javascript Symbol 实用指南](blog/node/a-practical-guide-to-symbols-in-javaScript.md)
+  * [Electron 快速入门](blog/node/Electron快速入门.md)
 * [Go](blog/go/README.md)
   * [Go Documents](blog/go/godoc/README.md)
     * [errors](blog/go/godoc/errors.md)
