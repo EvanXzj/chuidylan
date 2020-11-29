@@ -15,7 +15,7 @@
 
 * [Node](blog/node/README.md)
   * [Lerna 入门指南](blog/node/lerna-getting-start.md)
-  * [【转】Javascript Symbol 实用指南](blog/node/a-practical-guide-to-symbols-in-javaScript.md)
+  * [【译】Javascript Symbol 实用指南](blog/node/a-practical-guide-to-symbols-in-javaScript.md)
   * [Electron 快速入门](blog/node/Electron快速入门.md)
   * [Setting Up a Private Registry With Verdaccio](blog/node/setting-up-a-private-registry-with-verdaccio.md)
 * [Go](blog/go/README.md)
