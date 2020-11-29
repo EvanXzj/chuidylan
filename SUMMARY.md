@@ -8,6 +8,8 @@
   * [📦 Weekly 01](weekly/2020/20201030.md)
   * [📦 Weekly 02](weekly/2020/20201106.md)
   * [📦 Weekly 03](weekly/2020/20201113.md)
+  * [📦 Weekly 05](weekly/2020/20201120.md)
+  * [📦 Weekly 05](weekly/2020/20201127.md)
 
 ## Blog
 
@@ -15,6 +17,7 @@
   * [Lerna 入门指南](blog/node/lerna-getting-start.md)
   * [【转】Javascript Symbol 实用指南](blog/node/a-practical-guide-to-symbols-in-javaScript.md)
   * [Electron 快速入门](blog/node/Electron快速入门.md)
+  * [Setting Up a Private Registry With Verdaccio](blog/node/setting-up-a-private-registry-with-verdaccio.md)
 * [Go](blog/go/README.md)
   * [Go Documents](blog/go/godoc/README.md)
     * [errors](blog/go/godoc/errors.md)
@@ -39,6 +42,11 @@
   * [撤销Commit](blog/others/reset-commit.md)
   * [Vim 入门](blog/others/vim-getting-start.md)
   * [XXX 软件设置 - 你懂的😁](blog/others/XXX-software-setup.md)
+  * [使用Let Encrypts, HTTPS你的网站(Ubuntu)](blog/others/https-your-website.md)
+  * [生活杂记(一)](blog/others/life-story-01.md)
+  * [Postman使用自签名证书发送https请求](blog/others/postman-ca-https-request-config.md)
+  * [SQL结构化查询语言学](blog/others/structured-query-language-learning.md)
+  * [Ubuntu 16.04 初始化设置](blog/others/ubuntu-16.04-setup.md)
 
 ## English
 
