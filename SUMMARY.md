@@ -55,6 +55,12 @@
   * [【译】如何编写SQL，第1部分:命名约定](blog/others/how-do-i-write-sql.md)
   * [Vscode快捷键](blog/others/vscode快捷键.md)
 
+## Algorithm
+
+- [冒泡排序](algorithm/bubble-sort-algorithm.md)
+- [插入排序](algorithm/insertion-sort.md)
+- [选择排序](algorithm/selection-sort.md)
+  
 ## English
 
 * [Speech](english/speech/README.md)
