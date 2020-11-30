@@ -53,6 +53,7 @@
   * [Ubuntu 16.04 初始化设置](blog/others/ubuntu-16.04-setup.md)
   * [PostgreSQL 安装及配置](blog/others/postgresql-install-and-configure.md)
   * [【译】如何编写SQL，第1部分:命名约定](blog/others/how-do-i-write-sql.md)
+  * [Vscode快捷键](blog/others/vscode快捷键.md)
 
 ## Algorithm
 
