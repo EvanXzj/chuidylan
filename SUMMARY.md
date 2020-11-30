@@ -51,7 +51,15 @@
   * [Postman使用自签名证书发送https请求](blog/others/postman-ca-https-request-config.md)
   * [SQL结构化查询语言学](blog/others/structured-query-language-learning.md)
   * [Ubuntu 16.04 初始化设置](blog/others/ubuntu-16.04-setup.md)
+  * [PostgreSQL 安装及配置](blog/others/postgresql-install-and-configure.md)
+  * [【译】如何编写SQL，第1部分:命名约定](blog/others/how-do-i-write-sql.md)
 
+## Algorithm
+
+- [冒泡排序](algorithm/bubble-sort-algorithm.md)
+- [插入排序](algorithm/insertion-sort.md)
+- [选择排序](algorithm/selection-sort.md)
+  
 ## English
 
 * [Speech](english/speech/README.md)
