@@ -10,6 +10,7 @@
   * [📦 Weekly 03](weekly/2020/20201113.md)
   * [📦 Weekly 04](weekly/2020/20201120.md)
   * [📦 Weekly 05](weekly/2020/20201127.md)
+  * [📦 Weekly 06](weekly/2020/20201211.md)
 
 ## Blog
 
